@@ -1,0 +1,3 @@
+rootProject.name='BMLoadingView'
+include ':app'
+include ':loadingview'
