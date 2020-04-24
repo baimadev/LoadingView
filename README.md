@@ -1,6 +1,8 @@
 # LoadingView
 贝塞尔曲线绘制的LoadingView
 
+![image](https://github.com/baimadev/LoadingView/blob/master/video.gif)
+
 ## 引入项目
 1. 在Project下的build.gradle中
 
