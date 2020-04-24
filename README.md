@@ -3,7 +3,7 @@
 
 beginAnim()开始动画
 
-pauseAnim（）暂停动画
+pauseAnim()暂停动画
 
  ``` 
  <com.example.loadingview.BMLoadingView
