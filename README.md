@@ -1,5 +1,6 @@
 # LoadingView
 贝塞尔曲线绘制的LoadingView
+
 beginAnim()开始动画
 pauseAnim（）暂停动画
 
@@ -13,5 +14,6 @@ pauseAnim（）暂停动画
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
 
 gradientColor设置渐变色。
